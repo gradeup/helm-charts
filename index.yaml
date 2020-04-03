@@ -674,7 +674,7 @@ entries:
     sources:
     - https://github.com/elastic/kibana
     urls:
-    - https://helm.elastic.co/helm/kibana/kibana-7.6.2.tgz
+    - https://github.com/gradeup/helm-charts/raw/master/kibana-7.6.3.tgz
     version: 7.6.3
   - apiVersion: v1
     appVersion: 7.6.2
